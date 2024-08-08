@@ -14,7 +14,7 @@ Thank you for taking the time to review my work. I look forward to the possibili
 
 This repository contains all the data science projects that I've worked on using various languages.
 
-| **No.** | **Name** | 
+| **Folder** | **Link** | 
 | ------- | -------- | 
 |	Cormac	| **[Cormac/2023-Q4 APU](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Cormac/2023-Q4%20APU)** | 
 |	Python	| **[Python](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Python)** | 
