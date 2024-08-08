@@ -1,18 +1,3 @@
-## Hi there 👋
-
-# Data-Analyst-Portfolio
-
-This repository contains all the data analytics projects that I've worked on using various languages.
-
-| **No.** | **Name** | 
-| ------- | -------- | 
-|	Cormac	| **[Cormac/2023-Q4 APU](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Cormac/2023-Q4%20APU)** | 
-|	Python	| **[Python](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Python)** | 
-|	R code	| **[R code](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/R)** | 
-|	CCHC	| **[SAS/CCHC_DATASET](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/SAS/CCHC_DATASET)** | 
-|	SQL	| **[SQL](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/SQL)** | 
-
-
 ## About Me
 
 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in R, Python, SAS, SQL, Azure, Access, and have a solid understanding of data analytics techniques such as report writing, data mining, data merging, statistics, and critical thinking.
@@ -25,3 +10,14 @@ I am confident that my data analytics skills and experience make me an ideal can
 
 Thank you for considering me as a candidate, I look forward to hearing from you soon.# Data-Analyst-Portfolio Data Analyst Portfolio
 
+## Data-Analyst-Portfolio
+
+This repository contains all the data analytics projects that I've worked on using various languages.
+
+| **No.** | **Name** | 
+| ------- | -------- | 
+|	Cormac	| **[Cormac/2023-Q4 APU](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Cormac/2023-Q4%20APU)** | 
+|	Python	| **[Python](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Python)** | 
+|	R code	| **[R code](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/R)** | 
+|	CCHC	| **[SAS/CCHC_DATASET](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/SAS/CCHC_DATASET)** | 
+|	SQL	| **[SQL](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/SQL)** | 
