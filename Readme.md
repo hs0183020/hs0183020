@@ -16,8 +16,7 @@ This repository contains all the data science projects that I've worked on using
 
 | **Folder** | **Link** | 
 | ------- | -------- | 
-|	Cormac	| **[Cormac/2023-Q4 APU](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Cormac/2023-Q4%20APU)** | 
-|	Python	| **[Python](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/Python)** | 
-|	R code	| **[R code](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/R)** | 
-|	CCHC	| **[SAS/CCHC_DATASET](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/SAS/CCHC_DATASET)** | 
-|	SQL	| **[SQL](https://github.com/hs0183020/Data-Analyst-Portfolio/tree/main/SQL)** | 
+|	Python	| **[Python](https://github.com/hs0183020/Portfolio/tree/main/Python)** | 
+|	R code	| **[R code](https://github.com/hs0183020/Portfolio/tree/main/R)** | 
+|	CCHC	| **[SAS/CCHC_DATASET](https://github.com/hs0183020/Portfolio/tree/main/SAS/CCHC_DATASET)** | 
+|	SQL	| **[SQL](https://github.com/hs0183020/Portfolio/tree/main/SQL)** | 
